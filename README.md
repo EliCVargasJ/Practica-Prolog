@@ -32,11 +32,11 @@
       Findall-Member Smell.
       Lazy Predicate .
       Unificación intermedia / Incógnitas innecesarias.
-### 7. Combinatoria y Conceptos Avanzados 
+### 7. Combinatoria y Conceptos Avanzados
       Mapeo de Colecciones (maplist).
       Evaluación Dinámica (call).
       Efecto Colateral: Manipulación en ejecución de la base de conocimientos con assert y retract.
-### 8. Pruebas Unitarias con PlUnit 
+### 8. Pruebas Unitarias con PlUnit
       Bloques de Pruebas: Delimitados por begin_tests(grupo) y end_tests(grupo).
       Determinismo: Manejo de advertencias de choicepoints mediante la opción nondet.
       Testeo de Negación: Verificación de fallas esperadas con la opción fail.
