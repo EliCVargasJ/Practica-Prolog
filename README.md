@@ -1,5 +1,7 @@
 # Practica del paradigma Logico dado por la materia Paradigmas de Programacion en la UTN-FRBA.
 
+Lo que vas a encontrar aca son ejercicios realizados en clase, practicas y modelos de parcial.
+
 ## Contenidos vistos en este paradigma: 
 
 ### 1. Fundamentos y Sintaxis Básica

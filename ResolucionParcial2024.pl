@@ -1,4 +1,4 @@
-% ------ Parcial 2024-----------
+% ------ Parcial 2024 - Bondis! -----------
 
  % Recorridos en GBA:
 recorrido(17, gba(sur), mitre).
@@ -162,7 +162,7 @@ test(punto_3_calle_no_mas_transitada, [fail]) :-
 
 % ---------------- Punto 4 ----------------
 
-% En la base original no hay ninguna calle de transbordo verdadera.
+% No hay ninguna calle de transbordo verdadera.
 test(punto_4_santa_fe_no_es_transbordo, [fail]) :-
     esDeTrasbordo(santaFe, caba).
 
